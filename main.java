@@ -43,7 +43,7 @@ class HelloWorld {
 				} else {
 				       //comando caso a condicao seja falsa
 				
-					System.out.println("Parabens! Voce pode tirar sua habilitacao!");
+					System.out.println("Voce esta apto para tirar hablitacao");
 					// Texto que aparecera para o usuario
 				}
 			}
